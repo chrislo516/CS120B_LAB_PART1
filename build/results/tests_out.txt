@@ -1,10 +1,7 @@
-Breakpoint 1 at 0xea: file source/main.c, line 28.
+Breakpoint 1 at 0xf2: file source/main.c, line 31.
 Note: automatically using hardware breakpoints for read-only addresses.
 ======================================================
 Running all tests..."
 
-“PINA:...“PINA:...“PINA:...“PINA:...“PINA:...“PINA:...“PINA:...“PINA:...“PINA:...“PINA:...“PINA:...“PINA:...“PINA:...“PINA:...“PINA:...“PINA:...
-	Expected 0x80 
-	PORTC '0x800028:	0x80
-======================================================
+“PINA:...“PINA:...“PINA:...“PINA:...======================================================
 Quitting: Remote doesn't know how to detach
